@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "238226511541",
+    "firebase_url": "https://quizonline-3cfc7.firebaseio.com",
+    "project_id": "quizonline-3cfc7",
+    "storage_bucket": "quizonline-3cfc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238226511541:android:eb0f8c80dac0c64679d0fc",
+        "android_client_info": {
+          "package_name": "com.daclas.quizonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238226511541-0v82epjsde42nkr0fceccmrepte7usl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Wq8RL4WK3ppDBrjGsC7UbNr5kkGTt4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238226511541-0v82epjsde42nkr0fceccmrepte7usl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
